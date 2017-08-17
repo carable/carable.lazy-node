@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# to much noise:
+package-lock.json

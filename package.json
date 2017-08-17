@@ -1,0 +1,22 @@
+{
+  "name": "carable.lazy",
+  "version": "1.0.0",
+  "description": "Lazy constructs used in Carable code",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carable/carable.lazy-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carable/carable.lazy-node/issues"
+  },
+  "homepage": "https://github.com/carable/carable.lazy-node#readme",
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}

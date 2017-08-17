@@ -1,2 +1,2 @@
-# carable.lazy-node
+# carable.lazy
 lazy expiry in node js
